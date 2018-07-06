@@ -13,6 +13,8 @@
 # limitations under the License.
 # ==============================================================================
 
+###test 0706
+
 """TensorFlow NMT model implementation."""
 from __future__ import print_function
 
